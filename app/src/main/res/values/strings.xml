@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practical Test 02</string>
+    <string name="server">Server</string>
+    <string name="server_port">Server port</string>
+    <string name="connect">Connect</string>
+    <string name="client">Client</string>
+    <string name="client_port">Client port</string>
+    <string name="ip">IP</string>
+    <string name="requestbtn">Request</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string-array name="request">
+    <item name="get" type="string">get</item>
+    <item name="put" type="string">put</item>
+    </string-array>
+</resources>
